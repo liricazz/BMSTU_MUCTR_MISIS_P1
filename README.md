@@ -15,10 +15,10 @@
 *   Создание базы для будущих научных работ с использованием Python.
 
 ### ⚙️ Участники
-*   *[Студент 1 (РХТУ) - Марта](https://github.com/liricazz)*
-*   *[Студент 2 (РХТУ) - Дима](https://github.com/IsrailCrussade)*
-*   *Студент 3 (РХТУ)*
-*   *Студент 4 (РХТУ)*
-*   *Студент 5 (МИСИС)*
+*   *[Марта (РХТУ)](https://github.com/liricazz)*
+*   *[Дима (РХТУ)](https://github.com/IsrailCrussade)*
+*   *[Арман (РХТУ)](https://github.com/armanbbv)*
+*   *[Даня (РХТУ)](https://github.com/zhulkod)*
+*   *[Макс (МИСиС)](https://github.com/mAx0SS)*
 
 Let's make science programmable! 🚀
